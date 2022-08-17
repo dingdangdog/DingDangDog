@@ -2,9 +2,9 @@
 
 ---
 
-- I'm Noob Dog.
-- But, I'm Trying To Be A Better Me.
-- Thank You For Seeing Me.
+> I'm Noob Dog.
+> But, I'm Trying To Be A Better Me.
+> Thank You For Seeing Me.
 
 ---
 
