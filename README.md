@@ -2,9 +2,8 @@
 
 ---
 
-> I'm Noob Dog.
-> But, I'm Trying To Be A Better Me.
-> Thank You For Seeing Me.
+> Java后端菜狗一只。
+> 欢迎访问博客[oldmoon](https://oldmoon.top/)，感谢~
 
 ---
 
