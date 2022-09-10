@@ -68,15 +68,17 @@
 ---
 
 <div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=DingDangDog&show_icons=true&theme=tokyonight">
+	<br>	
 	<a href="https://gitee.com/xxhu1997">
-       <img src="https://img.shields.io/badge/DingDangDog-C71D23?style=for-the-badge&logo=gitee" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/DingDangDog">
-       <img src="https://img.shields.io/badge/DingDangDog-0d1117?style=for-the-badge&logo=github" />
-    </a>
-    <hr/>
-    📫<a href="mailto:dddog1997@foxmail.com">Reach Me</a>: dddog1997@foxmail.com
+		<img src="https://img.shields.io/badge/DingDangDog-C71D23?style=for-the-badge&logo=gitee" />
+	</a>
+	&nbsp;
+	<a href="https://github.com/DingDangDog">
+		<img src="https://img.shields.io/badge/DingDangDog-0d1117?style=for-the-badge&logo=github" />
+	</a>
+	<hr/>
+	📫<a href="mailto:dddog1997@foxmail.com">Reach Me</a>: dddog1997@foxmail.com
 </div>
 
 
