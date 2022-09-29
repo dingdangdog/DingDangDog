@@ -68,7 +68,9 @@
 ---
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=DingDangDog&show_icons=true&theme=tokyonight">
+	<a href="https://github.com/DingDangDog">
+		<img src="https://github-readme-stats.vercel.app/api?username=DingDangDog&show_icons=true&theme=tokyonight">
+	</a>
 	<br>	
 	<a href="https://gitee.com/xxhu1997">
 		<img src="https://img.shields.io/badge/DingDangDog-C71D23?style=for-the-badge&logo=gitee" />
