@@ -45,8 +45,18 @@
                 <a href="https://www.jetbrains.com/?from=simpler-robot">
                    <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="intellij-idea" width="60" height="60" />
                 </a>
+            </td>
+	    <td>
+                <a href="https://www.jetbrains.com/">
+                   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg" alt="intellij-idea" width="60" height="60" />
+                </a>
             </td> -->
-            <td>
+	    <td>
+                <a href="https://www.jetbrains.com/idea/">
+                   <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" alt="intellij-idea" width="60" height="60" />
+                </a>
+            </td>
+	    <td>
                 <a href="https://github.com/DingDangDog">
                    <img src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" alt="github" width="60" height="60" />
                 </a>
@@ -59,7 +69,8 @@
             <td>Gradle</td>
             <!-- <td>Mysql</td>
             <td>Redis</td>
-            <td>IDEA</td> -->
+            <td>Jetbrains</td> -->
+            <td>IDEA</td>
             <td>Github</td>
         </tr>
     </table>
