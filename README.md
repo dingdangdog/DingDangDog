@@ -91,7 +91,7 @@
 		<img src="https://img.shields.io/badge/DingDangDog-0d1117?style=for-the-badge&logo=github" />
 	</a>
 	<hr/>
-	📫<a href="mailto:dddogx@foxmail.com">Reach Me</a>: dddogx@foxmail.com
+	📫<a href="mailto:dddogx@qq.com">Reach Me</a>: dddogx@qq.com
 </div>
 
 
