@@ -1,10 +1,10 @@
-## Hello friend 👋，Welcome！
+## Hello Friend 👋，Welcome！
 
 > **我的名字(name)**：DingDangDog（叮噹Dog）
 > 
 > **我的职业(job)**：**Java Programmer**
 > 
-> **我的博客(blog)**：<a href="https://oldmoon.top"><img src="https://img.shields.io/badge/oldmoon-0d1117?style=for-the-badge" /></a>
+> **我的博客(blog)**：<a href="https://oldmoon.top"><img src="https://img.shields.io/badge/oldmoon.top-0d1117?style=for-the-badge" /></a>
 > 
 > **我的邮箱(emial)**：<a href="mailto:dddogx@qq.com"><img src="https://img.shields.io/badge/dddogx@qq.com-C71D23?style=for-the-badge" /></a>
 
