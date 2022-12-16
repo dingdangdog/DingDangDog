@@ -6,7 +6,7 @@
 > 
 > **我的博客(blog)**：<a href="https://oldmoon.top"><img src="https://img.shields.io/badge/oldmoon.top-0d1117?style=for-the-badge" /></a>
 > 
-> **我的邮箱(emial)**：<a href="mailto:dddogx@qq.com"><img src="https://img.shields.io/badge/dddogx@qq.com-C71D23?style=for-the-badge" /></a>
+> **我的邮箱(email)**：<a href="mailto:dddogx@qq.com"><img src="https://img.shields.io/badge/dddogx@qq.com-C71D23?style=for-the-badge" /></a>
 
 ---
 
