@@ -1,8 +1,8 @@
 ## Hello Friend 👋，Welcome！
 
-My Blog：<a href="https://oldmoon.top">月上老狗</a>
+我的博客(Blog)：<a href="https://oldmoon.top">月上老狗</a>
 
-My Goal: Make Money Money Money!
+我的座右铭(Motto): 编程切勿纸上谈兵，一切代码都需要自己去实践和感受，才能建立自己的理解。
 
 --- 
 
