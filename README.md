@@ -1,8 +1,10 @@
-## Hello Friend 👋，Welcome！
+## Hello Friend 👋，I'm dingdangdog！
 
-我的博客(Blog)：<a href="https://oldmoon.top">月上老狗</a>
+- 努力做一只帅气、有才、豁达的老狗！
+- Try to be a handsome, talented and open-minded old Dog!
 
-我的座右铭(Motto): 编程切勿纸上谈兵，一切代码都需要自己去实践和感受，才能建立自己的理解。
+博客(Blog)：<a href="https://oldmoon.top">月上老狗</a>
+
 
 --- 
 
