@@ -1,9 +1,13 @@
 ## Hello Friend 👋，I'm dingdangdog！
 
+<div align="center">
+  <img src="./oldmoon.dark.png"  height="180rem">
+</div>
+
 - 努力做一只帅气、有才、豁达的[老狗](https://oldmoon.top/)！
 - Strive to be a handsome, talented, and magnanimous [old dog](https://oldmoon.top/)!
 
---- 
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DingDangDog&show_icons=true&theme=tokyonight"  height="180rem">
@@ -11,13 +15,13 @@
 
 ---
 
-### 开源支持：
+### 开源支持
 
 非常高兴您能使用我开源的软件, 我是 [月上老狗/DingDangDog](https://oldmoon.top/), 一位开源独立开发者, 致力于提供高质量、免费的工具和资源。
 
 | 支付宝                                                       | 微信                                                         | paypal                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://images.oldmoon.top/images/dingdangdog/dingdangdog-1681366454631.jpg" width="300"/> | <img src="https://images.oldmoon.top/images/dingdangdog/dingdangdog-1681366402959.jpg" width="300"/> | 通过 PayPal 链接([dingdangdog](https://paypal.me/dddogx)) 捐赠 |
+| <img src="./donate-alipay.png" width="300"/> | <img src="./donate-wechat.jpg" width="300"/> | 通过 PayPal 链接([dingdangdog](https://paypal.me/dddogx)) 捐赠 |
 
 **感谢每一位支持我的人！**
 
