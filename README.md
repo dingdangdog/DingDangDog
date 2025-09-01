@@ -15,17 +15,8 @@
 
 ---
 
-### 开源支持
+**感谢每一位使用我的项目的人！**
 
-非常高兴您能使用我开源的软件, 我是 [月上老狗/DingDangDog](https://oldmoon.top/), 一位开源独立开发者, 致力于提供高质量、免费的工具和资源。
-
-| 支付宝                                                       | 微信                                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="./donate-alipay.png" width="300"/> | <img src="./donate-wechat.jpg" width="300"/> |
-
-**感谢每一位支持我的人！**
-
-**无论是通过捐赠，还是在项目中留下反馈或建议，您的参与都对我意义重大。**
 <!--
 **DingDangDog/DingDangDog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
